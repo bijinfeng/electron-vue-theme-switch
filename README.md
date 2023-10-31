@@ -1,4 +1,4 @@
-# electron-vite-vue
+# electron-vue-theme-switch
 
 ## Quick Setup
 
@@ -7,7 +7,7 @@
 git clone https://github.com/bijinfeng/electron-vue-theme-switch.git
 
 # enter the project directory
-cd electron-vite-vue
+cd electron-vue-theme-switch
 
 # install dependency
 npm install
