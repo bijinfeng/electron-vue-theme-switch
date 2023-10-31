@@ -4,7 +4,7 @@
 
 ```sh
 # clone the project
-git clone https://github.com/electron-vite/electron-vite-vue.git
+git clone https://github.com/bijinfeng/electron-vue-theme-switch.git
 
 # enter the project directory
 cd electron-vite-vue
